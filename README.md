@@ -23,7 +23,7 @@ _The Multi-Line chart shows us_:
 ![Multi-Line Chart](https://github.com/AditiOracle/PyBer_Analysis/blob/main/Resources/Multi-Line%20chart.PNG)
 **Summary:**
 
-There are three recommendations that I can give to CEO to increase the revenue:
+These are the recommendations that I can give to CEO to increase the revenue:
 
 - For Urban cities, Average Fare Per Driver is very low. I would just advise you to apply the Surge Price on peak hours to increase the revenue and this will help the drivers to have more money in their pocket too. We can&#39;t ignore drivers because a company&#39;s progress is dependent on them too.
 
