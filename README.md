@@ -12,6 +12,7 @@ _The Dataframe: pyber-summary\_df shows us:_
 - Total Rides, Total Drivers and Total fares are highest in Urban cities.
 - But Average Fare Per Ride and Average Fare Per Driver is highest in Rural cities.
 ![DataFrame Summary](https://github.com/AditiOracle/PyBer_Analysis/blob/main/Resources/RideSharingSummary_DF.png)
+
 _The Multi-Line chart shows us_:
 
 - Second week of March is the best time for the company as we have the highest total fare for this week for Urban, Suburban and Rural individually.
